@@ -3,6 +3,7 @@
 
 #define all(v) v.begin(), v.end()
 
+
 using namespace std;
 
 /** Global Constants **/
