@@ -56,7 +56,7 @@ entered as 2-4 means Round Robin with q=4.
  3. SRT (Shortest Remaining Time)
 - Line 3: An integer specifying the last instant to be used in your simulation and to be shown on the timeline.
 - Line 4: An integer specifying the number of processes to be simulated.
-- Line 5: Start of description of processes. Each process is to be described on a separate line. For algorithms 1 through 7, each process is described using a comma-separated list specifying:
+- Line 5: Start of description of processes. Each process is to be described on a separate line. For algorithms, each process is described using a comma-separated list specifying:
 
     1- String specifying a process name\
     2- Arrival Time\
